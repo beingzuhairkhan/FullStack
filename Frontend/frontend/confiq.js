@@ -1,1 +1,1 @@
-export const BASE = 'http://localhost:5000/api/users'
+export const BASE = 'https://fullstack-u1ob.onrender.com'
